@@ -1,0 +1,1 @@
+export const Htext = "basis-3/5 font-montserrat text-3xl font-bold"
